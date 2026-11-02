@@ -31,3 +31,7 @@ pnpm-debug.log*
 .idea/
 .DS_Store
 Thumbs.db
+
+# Vite cache
+.vite/
+frontend/.vite/
