@@ -5,6 +5,25 @@ A comprehensive, full-stack Hospital Management System built with the **MERN Sta
 
 ---
 
+## 🌐 Live Deployment
+
+| Service | URL |
+|---|---|
+| **Frontend (Vercel)** | 🔗 *(coming soon)* |
+| **Backend API (Render)** | 🔗 *(coming soon)* |
+
+---
+
+## 📁 Project Structure
+
+```
+Hospital-management/
+├── frontend/    ← React 18 + Vite (deployed on Vercel)
+└── backend/     ← Node.js + Express + MongoDB (deployed on Render)
+```
+
+---
+
 ## 🛠 Tech Stack
 
 | Layer | Technology |
